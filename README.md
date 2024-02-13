@@ -12,4 +12,4 @@
 - go run main.go
 
 
-# cc : https://github.com/sarox0987
+cc : https://github.com/sarox0987
